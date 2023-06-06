@@ -1,0 +1,17 @@
+{
+  "name": "promesas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
